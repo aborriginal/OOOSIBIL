@@ -41,7 +41,7 @@
 
 ### 💲🔑 Прогон кошельков LayerZero/zkSync
 Рефка
-t.me/REKTBLOCKBOT?start=D867987E
+https://t.me/REKTBLOCKBOT?start=D867987E
 
 ### 💲🔑 Прогон LayerZero/Starknet/ArbitrumOne/ArbitrumNova/Metamask/Snapshot(+прогрев)
 Источник: https://t.me/degensoft/63
